@@ -1,0 +1,10 @@
+{
+    "tempApp": {
+        "EducationType": {
+            "null": "",
+            "PRIMARY": "PRIMARY",
+            "SECONDARY": "SECONDARY",
+            "HIGHER_SECONDARY": "HIGHER_SECONDARY"
+        }
+    }
+}
